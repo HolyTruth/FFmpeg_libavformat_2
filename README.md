@@ -1,5 +1,5 @@
 # FFmpeg_libavformat_2
-# CVE 申请文案 — W1（wtvdec 递归栈耗尽）— 2026-11-15
+# CVE Request — W1（wtvdec 递归栈耗尽）— 2026-11-15
 
 ## Vulnerability description
 FFmpeg master (commit 09382db7f5791362dcaf0f4f26fad2bb18cb0dcb) is prone to
